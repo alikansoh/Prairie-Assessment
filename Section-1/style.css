@@ -1,0 +1,70 @@
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+}
+
+h1{
+    font-size: 50px;
+    height: 30px;
+}
+h5{
+    font-size: 20px
+
+}
+.left{
+   margin-top: 200px;
+   width: 600px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+input {
+    width: 400px;
+    height: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    
+}
+label{
+    margin-bottom: 15px;
+}
+.checkbox-grp{
+    display: flex;
+
+}
+.checkbox {
+    width: 15px;
+    margin: 0px;
+    margin-top: 10px;
+}
+.remember{
+    margin-left: 15px;
+}
+.forgot {
+    margin-left: 110px;
+}
+.click {
+    color: white;
+    background-color: blue;
+    height: 40px;
+    margin-top: 20px;
+    border-color: blue;
+}
+.sign{
+    background-color: white;
+    color: black;
+    height: 40px;
+
+
+}
+img{
+    height: 1000px;
+    width: 1000px;
+    border-radius: 35px;
+    margin-top: 50px
+}
